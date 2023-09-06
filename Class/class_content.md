@@ -31,5 +31,21 @@
 
 - Aula 6: As várias formas de fazer looping
     - Usando o for de várias formas
+
+- Aula 7: Maps, Slices e Structs
+    - Primeiro codigo falando sobre slice
+    - diferença entre slice e array é que o array possui valor fixo, você não consegue incrementar um array a menos que você crie um outro array levando as informações do primeiro. O slice é dinâmico você consegue realizar um append ou iniciar um slice vazio e ir incrementando ao decorrer do código.
+    - Segundo codigo falando sobre maps
+    - maps não possui ordenação
+    - maps precisam de validação de chave, se não ele retorna o valor padrão da várial, exemplo 0 para int.
+    - Terceiro falando sobre structs
+    - criando um type pessoas com as informações
+    - No código pode ser passado valor com seu atributo ou na ordem, porém na ordem caso a struct seja alterada e inserido um novo valor o código quebrará.
+
+- Aula 8: O que são métodos
+    - Métodos são atrelados a structs
+    - método "string" é utilizado com structs
+
+- Aula 9: Herança
     - 
 
