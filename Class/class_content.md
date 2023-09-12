@@ -47,5 +47,12 @@
     - método "string" é utilizado com structs
 
 - Aula 9: Herança
+    - Heranca, necessário mencionar o nome de uma struct dentro da outra.
+    - Ter atenção para não repetir valores nas struct pai e filhos do contrário ele não mostra o valor.
+
+- Aula 10: O que são interfaces
+    - Criando interfaces para Documento, pessoa fisica e pessoa juridica
+
+- Aula 11: Asserções em interfaces
     - 
 
