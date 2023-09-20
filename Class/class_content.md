@@ -54,5 +54,12 @@
     - Criando interfaces para Documento, pessoa fisica e pessoa juridica
 
 - Aula 11: Asserções em interfaces
+    - Asserções em Golang fornecem acesso ao tipo exato de váriavel de uma interface.
+
+- Aula 12: Diferença entre concorrência e paralelismo
+    - Aula teórica, explicando sobre concorrência e paralelismo.
+    - Goroutines são processos concorrentes, concorrentes seria quando vc efetua um processo e para por instante para realizar outro enquanto paralelo quando você faz 2 ou mais processos ao mesmo tempo.
+
+- Aula 13: Trabalhando com Goroutines
     - 
 
